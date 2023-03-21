@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CH03_2022_FIBONACCI</string>
+    <string name="str_generate">GENERAR</string>
+    <string name="str_input_number">Intrtoduzca un número</string>
+</resources>
